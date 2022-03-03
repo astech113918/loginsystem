@@ -1,0 +1,15 @@
+body{
+    background-image: url('banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+h2{
+    color: teal;
+    text-align: center;
+    background-color: rgb(170, 239, 241);
+}
